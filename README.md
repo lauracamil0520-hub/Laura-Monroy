@@ -39,4 +39,4 @@ Los documentos se elaboran en Word y se exportan a PDF para su consulta y entreg
 
 ## Conclusión
 
-Esta actividad permitió conocer y practicar las funciones básicas de Git y GitHub, comprender cómo se gestionan los archivos y aprender a registrar y publicar cambios en un repositorio remoto.
+Esta actividad me permitió conocer y practicar las funciones básicas de Git y GitHub, comprender cómo se gestionan los archivos y aprender a registrar y publicar cambios en un repositorio remoto.
