@@ -1,0 +1,33 @@
+¿Qué es Git y para qué sirve?
+
+Git es una herramienta que sirve para llevar un control de los cambios que se hacen en los archivos de un proyecto. Por ejemplo, si estoy haciendo un trabajo y necesito corregir o agregar información, Git me permite llevar un registro de esas modificaciones y saber qué cambios he realizado.
+
+También es útil porque ayuda a recuperar versiones anteriores de un archivo si algo sale mal. De esta manera, puedo organizar mejor mi trabajo y evitar perder los avances que he hecho.
+
+¿Qué es GitHub?
+
+GitHub es una página web en la que podemos guardar nuestros proyectos y tener nuestros archivos disponibles en internet. También permite compartirlos con otras personas para que puedan verlos o trabajar en ellos.
+
+Por ejemplo, si hago un trabajo para la universidad, puedo subirlo a GitHub para tenerlo guardado y consultar los archivos cuando los necesite.
+
+Diferencias entre Git y GitHub
+
+Aunque sus nombres son parecidos, no son lo mismo.
+
+Git es el programa que permite llevar un registro de los cambios que hacemos en los archivos. GitHub es la plataforma en la que podemos guardar y compartir esos proyectos por internet.
+
+Una forma sencilla de entenderlo es que Git lleva el control de los cambios y GitHub nos permite guardar y compartir el proyecto en línea.
+
+Comandos básicos de Git
+
+Estos son algunos comandos que se utilizan para trabajar con Git:
+
+•git init: sirve para iniciar un repositorio.
+•git add: permite seleccionar los archivos cuyos cambios queremos registrar.
+•git commit: guarda un registro de los cambios realizados.
+•git push: envía los cambios al repositorio de GitHub.
+•git clone: permite obtener una copia de un repositorio para trabajar con él.
+
+¿Por qué son importantes estas herramientas?
+
+Considero que Git y GitHub son herramientas útiles porque ayudan a mantener los trabajos organizados y a llevar un seguimiento de los cambios realizados. Además, permiten guardar los proyectos en internet y facilitan el trabajo en equipo.
