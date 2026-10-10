@@ -1,6 +1,6 @@
 # Laura-Monroy
 Configuración de herramientas Git y Github
-# Actividad 2: Hands on - Configuración de herramientas
+# Actividad 2: Configuración de herramientas
 
 ## Introducción
 
