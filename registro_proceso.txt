@@ -1,0 +1,1 @@
+Registro de trabajo con Git desde termux
