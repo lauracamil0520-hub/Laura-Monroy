@@ -2,7 +2,7 @@
 Configuración de herramientas Git y Github
 # Actividad 2: Configuración de herramientas
 
- Introducción
+ ##Introducción
 
 Este repositorio contiene los documentos y las evidencias correspondientes a la Actividad 2, relacionada con la instalación, configuración y utilización de Git y GitHub.
 
